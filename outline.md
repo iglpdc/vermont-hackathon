@@ -27,6 +27,7 @@ Ideas
 Directory Structure
 -------------------
     Project/
+        project.log
         executable.e
          * record version of the code
         --> data/
